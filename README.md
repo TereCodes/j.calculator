@@ -1,1 +1,1 @@
-"https://terecodes.github.io/j.calculator/"g
+"https://terecodes.github.io/j.calculator/"
